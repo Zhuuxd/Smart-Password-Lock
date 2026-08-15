@@ -31,7 +31,7 @@
 
 | 密码输入 | 输入错误 | 解锁成功 | 管理员模式 |
 |---------|---------|---------|-----------|
-| ![](images/1_密码输入.jpg) | ![](images/2_输入错误.jpg) | ![](images/3_解锁成功.jpg) | ![](images/4_管理员模式.jpg) |
+| ![](images/1_input.jpg) | ![](images/2_wrong.jpg) | ![](images/3_succeed.jpg) | ![](images/4_admin.jpg) |
 
 ---
 
